@@ -1,6 +1,8 @@
 # 💫 About Me:
-Hi, I'm Anmar Rahman 👋<br>I'm a 24-year-old student at Université de Montréal, currently pursuing a degree in Software Engineering. I'm passionate about technology, coding, and solving complex problems through innovative solutions. Here's a bit about me:<br><br>🌱 I’m currently learning Java, React, and VHDL.<br>💡 I’m working on a project related to public and private works in Montreal.<br>🖥️ I enjoy building web applications and exploring computer architecture.<br>⚙️ My recent projects involve JavaFX and embedded systems.<br><br>Feel free to check out my repositories, and let’s connect if you want to collaborate!
+Hi, I'm Anmar Rahman 👋<br> I'm a 24-year-old student at Université de Montréal, currently pursuing a degree in Software Engineering. I'm passionate about technology, coding, and solving complex problems through innovative solutions. Here's a bit about me:<br><br>
+🌱 I’m currently learning various technologies, including frontend frameworks like React and Next.js, as well as backend databases such as Firebase, MongoDB, and MySQL. I’m also getting into AI coding.<br> 🖥️ I enjoy building web applications and exploring computer architecture.<br><br>
 
+Feel free to check out my repositories, and let’s connect if you want to collaborate!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/QHymmE4H) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anmarrahman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anmarrahman) 
