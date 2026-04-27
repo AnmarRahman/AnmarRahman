@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Anmar Rahman 👋<br> I'm a 24-year-old student at Université de Montréal, currently pursuing a degree in Software Engineering. I'm passionate about technology, coding, and solving complex problems through innovative solutions. Here's a bit about me:<br><br>
+Hi, I'm Anmar Rahman 👋<br> I'm a 25-year-old student at Université de Montréal, currently pursuing a degree in Software Engineering. I'm passionate about technology, coding, and solving complex problems through innovative solutions. Here's a bit about me:<br><br>
 🌱 I’m currently learning various technologies, including frontend frameworks like React and Next.js, as well as backend databases such as Firebase, MongoDB, and MySQL. I’m also getting into AI coding.🖥️ I enjoy building web applications and exploring computer architecture.<br><br>
 
 Feel free to check out my repositories, and let’s connect if you want to collaborate!
