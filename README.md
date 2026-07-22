@@ -1,105 +1,217 @@
 <p align="center">
   <img
-    src="./assets/header.svg"
-    width="100%"
-    alt="Anmar Rahman animated profile header"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=900&lines=AI+Systems+Developer;Techno-Functional+Consultant;Enterprise+AI+•+Odoo+•+Automation;Building+Intelligent+Business+Software;Turning+Ideas+Into+AI+Solutions"
+    alt="Typing introduction"
+  />
+</p>
+
+<h1 align="center">Anmar Rahman</h1>
+
+<h3 align="center">
+  Building Enterprise AI Solutions & Intelligent Business Software
+</h3>
+
+<p align="center">
+  AI Systems Developer & Techno-Functional Consultant @
+  <b>Canada Europe Ltée (Condor)</b>
+  <br>
+  Co-Founder @ <b>Symantriq</b>
+</p>
+
+---
+
+## 🚀 About Me
+
+I'm passionate about building intelligent software that combines **artificial intelligence, enterprise automation, ERP systems, and modern web technologies** to solve real business problems.
+
+At **Canada Europe Ltée (Condor)**, I design and develop AI-powered internal systems, automate enterprise workflows, customize Odoo ERP, and build software that improves operational efficiency across multiple departments.
+
+My interests include **large language models, AI agents, enterprise software, workflow automation, cloud technologies, and scalable full-stack applications**.
+
+---
+
+## 💼 Experience
+
+### AI Systems Developer & Techno-Functional Consultant
+
+**Canada Europe Ltée (Condor)**
+
+- 🤖 Develop AI-powered business tools and automation systems
+- ⚙️ Customize and extend Odoo ERP
+- 📄 Build OCR and intelligent document-processing workflows
+- 🔄 Automate internal business processes
+- 🌐 Develop internal web applications and dashboards
+- 📊 Create business analytics and operational tools
+- 🔗 Integrate APIs and third-party services
+- ☁️ Design maintainable enterprise software solutions
+
+---
+
+## 🎯 Current Focus
+
+- 🤖 Enterprise AI automation
+- 🧠 Large Language Models
+- 📚 Retrieval-Augmented Generation
+- 🦾 AI agents and agentic workflows
+- ⚙️ Odoo ERP development
+- 🌐 Full-stack application development
+- ☁️ Cloud and API integrations
+- 📈 AI-assisted business systems
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img
+  src="https://skillicons.dev/icons?i=python,js,ts,java,cpp"
+  alt="Python, JavaScript, TypeScript, Java and C++"
+/>
+
+<br><br>
+
+### Frontend
+
+<img
+  src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"
+  alt="React, Next.js, Tailwind CSS, HTML and CSS"
+/>
+
+<br><br>
+
+### Backend & Databases
+
+<img
+  src="https://skillicons.dev/icons?i=fastapi,nodejs,mysql,mongodb"
+  alt="FastAPI, Node.js, MySQL and MongoDB"
+/>
+
+<br><br>
+
+### Cloud & Development Tools
+
+<img
+  src="https://skillicons.dev/icons?i=git,github,vercel,firebase,nginx,vscode"
+  alt="Git, GitHub, Vercel, Firebase, Nginx and Visual Studio Code"
+/>
+
+<br><br>
+
+### Enterprise AI & Automation
+
+<img
+  src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white"
+  alt="Odoo"
+/>
+<img
+  src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge"
+  alt="REST APIs"
+/>
+<img
+  src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge"
+  alt="Large Language Models"
+/>
+<img
+  src="https://img.shields.io/badge/RAG-6E40C9?style=for-the-badge"
+  alt="Retrieval-Augmented Generation"
+/>
+<img
+  src="https://img.shields.io/badge/AI%20Agents-0A66C2?style=for-the-badge"
+  alt="AI Agents"
+/>
+<img
+  src="https://img.shields.io/badge/OCR-2D3748?style=for-the-badge"
+  alt="Optical Character Recognition"
+/>
+
+</div>
+
+---
+
+## 🏆 Certifications
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Google-AI%20Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white"
+    alt="Google AI Essentials"
+  />
+  <img
+    src="https://img.shields.io/badge/Google-Prompting%20Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white"
+    alt="Google Prompting Essentials"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=1100&color=A78BFA&center=true&vCenter=true&width=900&height=55&lines=AI+Systems+Developer;Generative+AI+Engineer;LLMs+%7C+RAG+%7C+AI+Agents;Odoo+%7C+Automation+%7C+Enterprise+AI;Python+%7C+FastAPI+%7C+Next.js"
-    alt="Animated typing introduction"
+    src="https://img.shields.io/badge/IBM-AI%20Developer-1261FE?style=for-the-badge&logo=ibm&logoColor=white"
+    alt="IBM AI Developer Professional Certificate"
+  />
+  <img
+    src="https://img.shields.io/badge/IBM-Generative%20AI%20Engineering-1261FE?style=for-the-badge&logo=ibm&logoColor=white"
+    alt="IBM Generative AI Engineering Professional Certificate"
   />
 </p>
 
-# 👋 Hi, I'm Anmar Rahman
+---
 
-### AI Systems Developer • Techno-Functional Consultant • Full-Stack Developer
+## 🌐 Connect With Me
 
-I'm passionate about building intelligent software that combines **Artificial Intelligence, automation, ERP systems, and modern web development** to solve real business problems.
+<p align="center">
+  <a href="https://linkedin.com/in/anmarrahman">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
 
-Currently, I'm working at **Canada Europe Ltée (Condor)** where I design and develop AI-powered internal tools, automate business workflows, customize Odoo ERP, and build software that improves operational efficiency across multiple departments.
+  <a href="https://instagram.com/anmarrahman">
+    <img
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Instagram"
+    />
+  </a>
 
-Alongside my professional work, I'm pursuing a **Computer Science degree at Université de Montréal**, while continuously expanding my knowledge in AI engineering, cloud technologies, and scalable software architecture.
+  <a href="https://discord.gg/QHymmE4H">
+    <img
+      src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+      alt="Discord"
+    />
+  </a>
+</p>
 
 ---
 
-## 🚀 What I'm Working On
+## 📊 GitHub Statistics
 
-- 🤖 AI-powered business automation
-- 🧠 LLM & Generative AI integrations
-- ⚙️ Odoo ERP customization & development
-- 🔄 Workflow automation & process optimization
-- 🌐 Full-stack web applications
-- ☁️ Cloud & API integrations
-- 📊 Internal business systems & dashboards
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=AnmarRahman&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    alt="Anmar Rahman's GitHub statistics"
+  />
 
----
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmarRahman&layout=compact&theme=github_dark&hide_border=true"
+    alt="Anmar Rahman's most used languages"
+  />
+</p>
 
-## 💼 Current Focus
-
-- Building AI solutions for enterprise workflows
-- Developing custom Odoo modules
-- Automating repetitive business processes
-- Exploring Agentic AI & AI-assisted development
-- Designing scalable web platforms with React & Next.js
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-EA2D2E?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### AI & Backend
-
-![Python](https://img.shields.io/badge/Python-AI-blue?style=for-the-badge&logo=python)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-
-### Cloud & Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=AnmarRahman&theme=github-dark-blue&hide_border=true"
+    alt="Anmar Rahman's GitHub contribution streak"
+  />
+</p>
 
 ---
 
-## 🌎 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anmarrahman)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anmarrahman)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QHymmE4H)
-
----
-
-# 📈 GitHub Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=AnmarRahman&theme=github_dark&show_icons=true&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=AnmarRahman&theme=github-dark-blue&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnmarRahman&layout=compact&theme=github_dark&hide_border=true)
-
----
-
-![](https://komarev.com/ghpvc/?username=AnmarRahman&style=for-the-badge)
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=AnmarRahman&style=for-the-badge&label=PROFILE+VIEWS"
+    alt="Profile view counter"
+  />
+</p>
