@@ -1,3 +1,18 @@
+<p align="center">
+  <img
+    src="./assets/header.svg"
+    width="100%"
+    alt="Anmar Rahman animated profile header"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=1100&color=A78BFA&center=true&vCenter=true&width=900&height=55&lines=AI+Systems+Developer;Generative+AI+Engineer;LLMs+%7C+RAG+%7C+AI+Agents;Odoo+%7C+Automation+%7C+Enterprise+AI;Python+%7C+FastAPI+%7C+Next.js"
+    alt="Animated typing introduction"
+  />
+</p>
+
 # 👋 Hi, I'm Anmar Rahman
 
 ### AI Systems Developer • Techno-Functional Consultant • Full-Stack Developer
