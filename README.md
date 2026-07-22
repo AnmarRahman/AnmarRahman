@@ -1,7 +1,7 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=900&lines=AI+Systems+Developer;Techno-Functional+Consultant;Enterprise+AI+•+Odoo+•+Automation;Building+Intelligent+Business+Software;Turning+Ideas+Into+AI+Solutions"
-    alt="Typing introduction"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=900&lines=AI+Systems+Developer;Techno-Functional+Consultant;Enterprise+AI+%7C+Odoo+%7C+Automation;Building+Intelligent+Business+Software;Turning+Ideas+Into+AI+Solutions"
+    alt="AI Systems Developer typing animation"
   />
 </p>
 
