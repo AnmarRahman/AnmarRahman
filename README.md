@@ -1,19 +1,90 @@
-# 💫 About Me:
-Hi, I'm Anmar Rahman 👋<br> I'm a 25-year-old student at Université de Montréal, currently pursuing a degree in Computer Science. I'm passionate about technology, coding, and solving complex problems through innovative solutions. Here's a bit about me:<br><br>
-🌱 I’m currently learning various technologies, including frontend frameworks like React and Next.js, as well as backend databases such as Firebase, MongoDB, and MySQL. I’m also getting into AI coding.🖥️ I enjoy building web applications and exploring computer architecture.<br><br>
+# 👋 Hi, I'm Anmar Rahman
 
-Feel free to check out my repositories, and let’s connect if you want to collaborate!
+### AI Systems Developer • Techno-Functional Consultant • Full-Stack Developer
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/QHymmE4H) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anmarrahman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anmarrahman) 
+I'm passionate about building intelligent software that combines **Artificial Intelligence, automation, ERP systems, and modern web development** to solve real business problems.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AnmarRahman&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AnmarRahman&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnmarRahman&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+Currently, I'm working at **Canada Europe Ltée (Condor)** where I design and develop AI-powered internal tools, automate business workflows, customize Odoo ERP, and build software that improves operational efficiency across multiple departments.
+
+Alongside my professional work, I'm pursuing a **Computer Science degree at Université de Montréal**, while continuously expanding my knowledge in AI engineering, cloud technologies, and scalable software architecture.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AnmarRahman&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🚀 What I'm Working On
+
+- 🤖 AI-powered business automation
+- 🧠 LLM & Generative AI integrations
+- ⚙️ Odoo ERP customization & development
+- 🔄 Workflow automation & process optimization
+- 🌐 Full-stack web applications
+- ☁️ Cloud & API integrations
+- 📊 Internal business systems & dashboards
+
+---
+
+## 💼 Current Focus
+
+- Building AI solutions for enterprise workflows
+- Developing custom Odoo modules
+- Automating repetitive business processes
+- Exploring Agentic AI & AI-assisted development
+- Designing scalable web platforms with React & Next.js
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-EA2D2E?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### AI & Backend
+
+![Python](https://img.shields.io/badge/Python-AI-blue?style=for-the-badge&logo=python)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+
+### Cloud & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
+
+---
+
+## 🌎 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anmarrahman)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/anmarrahman)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QHymmE4H)
+
+---
+
+# 📈 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=AnmarRahman&theme=github_dark&show_icons=true&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=AnmarRahman&theme=github-dark-blue&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnmarRahman&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+![](https://komarev.com/ghpvc/?username=AnmarRahman&style=for-the-badge)
