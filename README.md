@@ -11,9 +11,9 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-LAUNCH_SYSTEM-020617?style=for-the-badge&logo=vercel&logoColor=white)](https://anmarrahman.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmarrahman/)
-[![Email](https://img.shields.io/badge/EMAIL-OPEN_CHANNEL-0369A1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmar.rahman.dev@gmail.com)
+<a href="https://anmarrahman.vercel.app/" target="_blank" rel="noopener noreferrer">![Portfolio](https://img.shields.io/badge/PORTFOLIO-LAUNCH_SYSTEM-020617?style=for-the-badge&logo=vercel&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/anmarrahman/" target="_blank" rel="noopener noreferrer">![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://img.shields.io/badge/EMAIL-OPEN_CHANNEL-0369A1?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer">![Email</a>](mailto:anmar.rahman.dev@gmail.com)
 
 <br/><br/>
 
@@ -151,7 +151,7 @@ OUTPUT      AI platforms, dashboards, business websites, web applications
 
 <br/>
 
-### `Software Development Internship`
+### `L'Original x Artur.art`
 
 **Software Developer Intern**
 
@@ -182,7 +182,7 @@ Restaurant platform designed for a real business, with a modern customer-facing 
 
 **System Link**
 
-[![Open Parsley](https://img.shields.io/badge/OPEN_MODULE-parsleyct.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://parsleyct.com/)
+<a href="https://parsleyct.com/" target="_blank" rel="noopener noreferrer">![Open Parsley](https://img.shields.io/badge/OPEN_MODULE-parsleyct.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)</a>
 
 </td>
 <td width="33%" valign="top">
@@ -202,7 +202,7 @@ Modern business and e-commerce website for Canada Europe Ltée, built to present
 
 **System Link**
 
-[![Open Condor](https://img.shields.io/badge/OPEN_MODULE-condorwebsite-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://condorwebsite.vercel.app/)
+<a href="https://condorwebsite.vercel.app/" target="_blank" rel="noopener noreferrer">![Open Condor](https://img.shields.io/badge/OPEN_MODULE-condorwebsite-111827?style=for-the-badge&logo=vercel&logoColor=white)</a>
 
 </td>
 <td width="33%" valign="top">
@@ -222,7 +222,7 @@ Digital agency platform presenting AI solutions, web development services, produ
 
 **System Link**
 
-[![Open Symantriq](https://img.shields.io/badge/OPEN_MODULE-symantriq.com-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://www.symantriq.com/)
+<a href="https://www.symantriq.com/" target="_blank" rel="noopener noreferrer">![Open Symantriq](https://img.shields.io/badge/OPEN_MODULE-symantriq.com-111827?style=for-the-badge&logo=vercel&logoColor=white)</a>
 
 </td>
 </tr>
@@ -456,11 +456,11 @@ I am interested in projects involving AI systems, enterprise automation, ERP sol
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-anmarrahman.vercel.app-020617?style=for-the-badge&logo=vercel&logoColor=white)](https://anmarrahman.vercel.app/)
+<a href="https://anmarrahman.vercel.app/" target="_blank" rel="noopener noreferrer">![Portfolio](https://img.shields.io/badge/PORTFOLIO-anmarrahman.vercel.app-020617?style=for-the-badge&logo=vercel&logoColor=white)</a>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Anmar_Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmarrahman/)
+<a href="https://www.linkedin.com/in/anmarrahman/" target="_blank" rel="noopener noreferrer">![LinkedIn](https://img.shields.io/badge/LINKEDIN-Anmar_Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-[![Email](https://img.shields.io/badge/EMAIL-anmar.rahman.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmar.rahman.dev@gmail.com)
+<a href="https://img.shields.io/badge/EMAIL-anmar.rahman.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer">![Email</a>](mailto:anmar.rahman.dev@gmail.com)
 
 <br/><br/>
 
