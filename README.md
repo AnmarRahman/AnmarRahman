@@ -13,7 +13,7 @@
 
 <a href="https://anmarrahman.vercel.app/" target="_blank" rel="noopener noreferrer">![Portfolio](https://img.shields.io/badge/PORTFOLIO-LAUNCH_SYSTEM-020617?style=for-the-badge&logo=vercel&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/anmarrahman/" target="_blank" rel="noopener noreferrer">![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://img.shields.io/badge/EMAIL-OPEN_CHANNEL-0369A1?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer">![Email</a>](mailto:anmar.rahman.dev@gmail.com)
+<a href="mailto:anmar.rahman.dev@gmail.com"><img src="https://img.shields.io/badge/EMAIL-OPEN_CHANNEL-0369A1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/><br/>
 
@@ -165,66 +165,63 @@ OUTPUT      AI platforms, dashboards, business websites, web applications
 
 <table>
 <tr>
-<td width="33%" valign="top">
-
-### `MODULE_01`
-## Parsley
-
-Restaurant platform designed for a real business, with a modern customer-facing experience and production deployment.
-
-**Runtime**
-
-- React
-- Node.js
-- Square integrations
-- Responsive UI
-- Production deployment
-
-**System Link**
-
-<a href="https://parsleyct.com/" target="_blank" rel="noopener noreferrer">![Open Parsley](https://img.shields.io/badge/OPEN_MODULE-parsleyct.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)</a>
-
+<td width="33%" valign="top"><code>MODULE_01</code></td>
+<td width="33%" valign="top"><code>MODULE_02</code></td>
+<td width="33%" valign="top"><code>MODULE_03</code></td>
+</tr>
+<tr>
+<td valign="top"><h2>Parsley</h2></td>
+<td valign="top"><h2>Condor Website</h2></td>
+<td valign="top"><h2>Symantriq</h2></td>
+</tr>
+<tr>
+<td valign="top">Restaurant platform designed for a real business, with a modern customer-facing experience and production deployment.</td>
+<td valign="top">Modern business and e-commerce website for Canada Europe Ltée, presenting products, services, and company information.</td>
+<td valign="top">Digital agency platform presenting AI solutions, web development services, products, and technology capabilities.</td>
+</tr>
+<tr>
+<td valign="top"><strong>Runtime</strong></td>
+<td valign="top"><strong>Runtime</strong></td>
+<td valign="top"><strong>Runtime</strong></td>
+</tr>
+<tr>
+<td valign="top">
+<ul>
+<li>React</li>
+<li>Node.js</li>
+<li>Square integrations</li>
+<li>Responsive UI</li>
+<li>Production deployment</li>
+</ul>
 </td>
-<td width="33%" valign="top">
-
-### `MODULE_02`
-## Condor Website
-
-Modern business and e-commerce website for Canada Europe Ltée, built to present products, services, and company information clearly.
-
-**Runtime**
-
-- Next.js
-- React
-- Responsive layouts
-- Product-focused design
-- Business website architecture
-
-**System Link**
-
-<a href="https://condorwebsite.vercel.app/" target="_blank" rel="noopener noreferrer">![Open Condor](https://img.shields.io/badge/OPEN_MODULE-condorwebsite-111827?style=for-the-badge&logo=vercel&logoColor=white)</a>
-
+<td valign="top">
+<ul>
+<li>Next.js</li>
+<li>React</li>
+<li>Responsive layouts</li>
+<li>Product-focused design</li>
+<li>Business architecture</li>
+</ul>
 </td>
-<td width="33%" valign="top">
-
-### `MODULE_03`
-## Symantriq
-
-Digital agency platform presenting AI solutions, web development services, products, and client-focused technology capabilities.
-
-**Runtime**
-
-- Next.js
-- AI product development
-- Full-stack engineering
-- Client solutions
-- Cloud deployment
-
-**System Link**
-
-<a href="https://www.symantriq.com/" target="_blank" rel="noopener noreferrer">![Open Symantriq](https://img.shields.io/badge/OPEN_MODULE-symantriq.com-111827?style=for-the-badge&logo=vercel&logoColor=white)</a>
-
+<td valign="top">
+<ul>
+<li>Next.js</li>
+<li>AI product development</li>
+<li>Full-stack engineering</li>
+<li>Client solutions</li>
+<li>Cloud deployment</li>
+</ul>
 </td>
+</tr>
+<tr>
+<td valign="top"><strong>System Link</strong></td>
+<td valign="top"><strong>System Link</strong></td>
+<td valign="top"><strong>System Link</strong></td>
+</tr>
+<tr>
+<td valign="top"><a href="https://parsleyct.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/OPEN_MODULE-parsleyct.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open Parsley" /></a></td>
+<td valign="top"><a href="https://condorwebsite.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/OPEN_MODULE-condorwebsite-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Condor Website" /></a></td>
+<td valign="top"><a href="https://www.symantriq.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/OPEN_MODULE-symantriq.com-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Symantriq" /></a></td>
 </tr>
 </table>
 
@@ -460,7 +457,7 @@ I am interested in projects involving AI systems, enterprise automation, ERP sol
 
 <a href="https://www.linkedin.com/in/anmarrahman/" target="_blank" rel="noopener noreferrer">![LinkedIn](https://img.shields.io/badge/LINKEDIN-Anmar_Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-<a href="https://img.shields.io/badge/EMAIL-anmar.rahman.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer">![Email</a>](mailto:anmar.rahman.dev@gmail.com)
+<a href="mailto:anmar.rahman.dev@gmail.com"><img src="https://img.shields.io/badge/EMAIL-anmar.rahman.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Anmar Rahman" /></a>
 
 <br/><br/>
 
