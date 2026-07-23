@@ -5,30 +5,22 @@
 <p><code>AI-POWERED ENTERPRISE SYSTEMS</code></p>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2200&pause=600&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=135&lines=%3E+Initializing+AI+Core...;%3E+Loading+Enterprise+Automation+Modules...;%3E+Connecting+Business+Systems...;%3E+System+online.+Welcome+to+AnmarOS."
-  alt="AnmarOS boot sequence"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2200&pause=600&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=135&lines=%3E+Initializing+AI+Core...;%3E+Loading+Enterprise+Automation+Modules...;%3E+Connecting+Business+Systems...;%3E+System+online.+Welcome+to+AnmarOS."
+alt="AnmarOS boot sequence"
 />
 
 <br/>
 
-<a href="https://anmarrahman.vercel.app/" target="_blank" rel="noopener noreferrer">![Portfolio](https://img.shields.io/badge/PORTFOLIO-LAUNCH_SYSTEM-020617?style=for-the-badge&logo=vercel&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/anmarrahman/" target="_blank" rel="noopener noreferrer">![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="mailto:anmar.rahman.dev@gmail.com"><img src="https://img.shields.io/badge/EMAIL-OPEN_CHANNEL-0369A1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://anmarrahman.vercel.app/" target="_blank" rel="noopener noreferrer"></a><a href="https://www.linkedin.com/in/anmarrahman/" target="_blank" rel="noopener noreferrer"></a><a href="mailto:anmar.rahman.dev@gmail.com"><img src="https://img.shields.io/badge/EMAIL-OPEN_CHANNEL-0369A1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/><br/>
 
-![System](https://img.shields.io/badge/SYSTEM-ONLINE-22C55E?style=flat-square)
-![Location](https://img.shields.io/badge/NODE-MONTREAL-38BDF8?style=flat-square)
-![Focus](https://img.shields.io/badge/FOCUS-ENTERPRISE_AI-A855F7?style=flat-square)
-![Profile Views](https://komarev.com/ghpvc/?username=AnmarRahman&style=flat-square&label=CONNECTIONS&color=0369a1)
+
 
 </div>
 
----
+01 // SYSTEM_IDENTITY
 
-## `01 // SYSTEM_IDENTITY`
-
-```yaml
 system:
   name: AnmarOS
   operator: Anmar Rahman
@@ -52,116 +44,155 @@ languages:
   - English
   - French
   - Arabic
-```
 
-I build practical systems that connect **AI, automation, enterprise software, and modern web development**.
+I build practical systems that connect AI, automation, enterprise software, and modern web development.
 
 My work focuses on turning manual business processes into structured digital workflows, building internal tools, extending ERP systems, and developing production-ready web platforms for real organizations.
 
----
-
-## `02 // SYSTEM_STATUS`
+02 // SYSTEM_STATUS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### `CORE_RUNTIME`
+CORE_RUNTIME
 
-```text
 AI Systems Development        ACTIVE
 Enterprise Automation         ACTIVE
 Odoo ERP Customization        ACTIVE
 Full-Stack Engineering        ACTIVE
 OCR & Data Processing         ACTIVE
 System Integrations           ACTIVE
-```
 
 </td>
 <td width="50%" valign="top">
 
-### `CURRENT_OBJECTIVES`
+CURRENT_OBJECTIVES
 
-```text
 Build scalable AI workflows
 Automate repetitive operations
 Centralize business knowledge
 Improve enterprise visibility
 Connect fragmented systems
 Ship useful production software
-```
 
 </td>
 </tr>
 </table>
 
----
+03 // ACTIVE_PROCESSES
 
-## `03 // ACTIVE_PROCESSES`
+PID
 
-| PID | Process | State | Description |
-|---:|---|---|---|
-| `001` | `AI_AUTOMATION_ENGINE` | `RUNNING` | Designing AI-powered workflows that reduce manual work |
-| `002` | `ODOO_EXTENSION_LAYER` | `RUNNING` | Customizing ERP workflows across business operations |
-| `003` | `OCR_PROCESSOR` | `RUNNING` | Extracting and structuring data from business documents |
-| `004` | `WEB_PLATFORM_RUNTIME` | `RUNNING` | Building scalable applications with React and Next.js |
-| `005` | `INTEGRATION_SERVICE` | `RUNNING` | Connecting tools, APIs, databases, and internal systems |
-| `006` | `BUSINESS_PROCESS_OPTIMIZER` | `RUNNING` | Improving sales, purchasing, supply chain, and operations |
+Process
 
----
+State
 
-## `04 // PROFESSIONAL_RUNTIME`
+Description
 
-### `Canada Europe Ltée (Condor)`
+001
 
-**AI Systems Developer & Techno-Functional Consultant**  
-`July 2026 — Present` · Montreal, Quebec, Canada · Hybrid
+AI_AUTOMATION_ENGINE
 
-```text
+RUNNING
+
+Designing AI-powered workflows that reduce manual work
+
+002
+
+ODOO_EXTENSION_LAYER
+
+RUNNING
+
+Customizing ERP workflows across business operations
+
+003
+
+OCR_PROCESSOR
+
+RUNNING
+
+Extracting and structuring data from business documents
+
+004
+
+WEB_PLATFORM_RUNTIME
+
+RUNNING
+
+Building scalable applications with React and Next.js
+
+005
+
+INTEGRATION_SERVICE
+
+RUNNING
+
+Connecting tools, APIs, databases, and internal systems
+
+006
+
+BUSINESS_PROCESS_OPTIMIZER
+
+RUNNING
+
+Improving sales, purchasing, supply chain, and operations
+
+04 // PROFESSIONAL_RUNTIME
+
+Canada Europe Ltée (Condor)
+
+AI Systems Developer & Techno-Functional ConsultantJuly 2026 — Present · Montreal, Quebec, Canada · Hybrid
+
 STATUS      Permanent Full-time
 ACCESS      Leadership-level collaboration
 SCOPE       AI, automation, ERP, integrations, internal systems
-```
 
-- Work directly with leadership on AI and digital transformation initiatives.
-- Design and implement AI-powered automation and business workflows.
-- Customize and extend Odoo ERP to streamline internal operations.
-- Develop tools for OCR, document processing, data extraction, and integrations.
-- Build internal systems that centralize projects, workflows, meetings, and documentation.
-- Improve processes across sales, purchasing, supply chain, and operations.
+Work directly with leadership on AI and digital transformation initiatives.
+
+Design and implement AI-powered automation and business workflows.
+
+Customize and extend Odoo ERP to streamline internal operations.
+
+Develop tools for OCR, document processing, data extraction, and integrations.
+
+Build internal systems that centralize projects, workflows, meetings, and documentation.
+
+Improve processes across sales, purchasing, supply chain, and operations.
 
 <br/>
 
-### `Symantriq`
+Symantriq
 
-**Co-founder & Lead Developer**  
-`January 2024 — Present` · Montreal, Quebec, Canada · Remote
+Co-founder & Lead DeveloperJanuary 2024 — Present · Montreal, Quebec, Canada · Remote
 
-```text
 STATUS      Active
 ROLE        Product engineering and technical leadership
 OUTPUT      AI platforms, dashboards, business websites, web applications
-```
 
-- Built and deployed AI-powered platforms, dashboards, and chatbot systems used by real clients.
-- Developed 30+ web applications using React, Next.js, Python, and modern cloud tools.
-- Led architecture, implementation, deployment, and ongoing product improvements.
-- Worked directly with clients to translate business requirements into working software.
-- Built reusable systems for authentication, admin dashboards, analytics, payments, and automation.
+Built and deployed AI-powered platforms, dashboards, and chatbot systems used by real clients.
+
+Developed 30+ web applications using React, Next.js, Python, and modern cloud tools.
+
+Led architecture, implementation, deployment, and ongoing product improvements.
+
+Worked directly with clients to translate business requirements into working software.
+
+Built reusable systems for authentication, admin dashboards, analytics, payments, and automation.
 
 <br/>
 
-### `L'Original x Artur.art`
+L'Original x Artur.art
 
-**Software Developer Intern**
+Software Developer Intern
 
-- Contributed to real software development tasks in a professional environment.
-- Worked with existing codebases, technical requirements, and collaborative workflows.
-- Strengthened practical experience in debugging, implementation, and software delivery.
+Contributed to real software development tasks in a professional environment.
 
----
+Worked with existing codebases, technical requirements, and collaborative workflows.
 
-## `05 // FEATURED_MODULES`
+Strengthened practical experience in debugging, implementation, and software delivery.
+
+05 // FEATURED_MODULES
 
 <table>
 <tr>
@@ -225,80 +256,102 @@ OUTPUT      AI platforms, dashboards, business websites, web applications
 </tr>
 </table>
 
----
+06 // CAPABILITY_MATRIX
 
-## `06 // CAPABILITY_MATRIX`
+AI_AND_AUTOMATION
 
-### `AI_AND_AUTOMATION`
+AI workflow design
 
-- AI workflow design
-- Business process automation
-- LLM-powered applications
-- Chatbot systems
-- Intelligent document processing
-- OCR pipelines
-- Data extraction and transformation
-- Internal AI tools
-- Prompt engineering
-- API-based AI integrations
+Business process automation
 
-### `ENTERPRISE_SYSTEMS`
+LLM-powered applications
 
-- Odoo ERP customization
-- Sales workflows
-- Purchasing workflows
-- Inventory and supply chain processes
-- Helpdesk and field service workflows
-- CRM configuration
-- Business process mapping
-- Techno-functional analysis
-- Internal dashboards
-- Cross-system integration
+Chatbot systems
 
-### `SOFTWARE_ENGINEERING`
+Intelligent document processing
 
-- Full-stack web development
-- Frontend architecture
-- Backend APIs
-- Authentication and authorization
-- Admin dashboards
-- Database design
-- Cloud deployment
-- Testing and debugging
-- Git-based collaboration
-- Responsive interface development
+OCR pipelines
 
----
+Data extraction and transformation
 
-## `07 // INSTALLED_MODULES`
+Internal AI tools
 
-### `LANGUAGES`
+Prompt engineering
+
+API-based AI integrations
+
+ENTERPRISE_SYSTEMS
+
+Odoo ERP customization
+
+Sales workflows
+
+Purchasing workflows
+
+Inventory and supply chain processes
+
+Helpdesk and field service workflows
+
+CRM configuration
+
+Business process mapping
+
+Techno-functional analysis
+
+Internal dashboards
+
+Cross-system integration
+
+SOFTWARE_ENGINEERING
+
+Full-stack web development
+
+Frontend architecture
+
+Backend APIs
+
+Authentication and authorization
+
+Admin dashboards
+
+Database design
+
+Cloud deployment
+
+Testing and debugging
+
+Git-based collaboration
+
+Responsive interface development
+
+07 // INSTALLED_MODULES
+
+LANGUAGES
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,java,sql" alt="Programming languages"/>
 </p>
 
-### `FRONTEND`
+FRONTEND
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite" alt="Frontend technologies"/>
 </p>
 
-### `BACKEND_AND_DATA`
+BACKEND_AND_DATA
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,postgres,mysql,supabase" alt="Backend and databases"/>
 </p>
 
-### `TOOLS_AND_INFRASTRUCTURE`
+TOOLS_AND_INFRASTRUCTURE
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,vscode,postman" alt="Tools and infrastructure"/>
 </p>
 
-### `ENTERPRISE_AND_AI`
+ENTERPRISE_AND_AI
 
-```text
 Odoo ERP
 REST APIs
 OCR pipelines
@@ -307,13 +360,9 @@ LLM integrations
 Workflow orchestration
 Data processing
 System integration
-```
 
----
+08 // SYSTEM_ARCHITECTURE
 
-## `08 // SYSTEM_ARCHITECTURE`
-
-```mermaid
 flowchart TD
     A[Business Requirement] --> B[Process Analysis]
     B --> C{System Type}
@@ -331,13 +380,9 @@ flowchart TD
     H --> I[(Business Data)]
     I --> J[Dashboards and Internal Tools]
     J --> K[Operational Improvement]
-```
 
----
+09 // DEVELOPMENT_PROTOCOL
 
-## `09 // DEVELOPMENT_PROTOCOL`
-
-```text
 01. Understand the real business problem
 02. Map the existing workflow
 03. Identify unnecessary manual steps
@@ -346,17 +391,13 @@ flowchart TD
 06. Integrate with existing tools
 07. Test against real operational scenarios
 08. Deploy, monitor, and improve
-```
 
 My approach is based on practical outcomes rather than adding technology for its own sake. A useful system should reduce friction, improve visibility, and make everyday work easier.
 
----
+10 // PROJECT_RUNTIME
 
-## `10 // PROJECT_RUNTIME`
+WEB_PLATFORMS
 
-### `WEB_PLATFORMS`
-
-```text
 30+ web applications developed
 AI-powered dashboards
 Customer portals
@@ -366,11 +407,9 @@ Authentication systems
 Analytics interfaces
 Payment integrations
 Responsive production applications
-```
 
-### `BUSINESS_SYSTEMS`
+BUSINESS_SYSTEMS
 
-```text
 ERP workflow improvements
 Internal operations tools
 OCR and document pipelines
@@ -378,59 +417,65 @@ Sales and purchasing automation
 Project and knowledge centralization
 Integration services
 Business process dashboards
-```
 
-### `AI_SYSTEMS`
+AI_SYSTEMS
 
-```text
 Chatbot platforms
 AI-assisted workflows
 Document intelligence
 Structured data extraction
 Business knowledge access
 Automated processing pipelines
-```
 
----
+11 // CERTIFICATION_REGISTRY
 
-## `11 // CERTIFICATION_REGISTRY`
+Certification
 
-| Certification | Provider | Status |
-|---|---|---|
-| Google AI Essentials | Google / Coursera | Completed |
-| Generative AI: Elevate Your Software Development Career | IBM / Coursera | Completed |
-| Additional AI, cloud, and software certifications | Ongoing learning path | In Progress |
+Provider
 
-```text
+Status
+
+Google AI Essentials
+
+Google / Coursera
+
+Completed
+
+Generative AI: Elevate Your Software Development Career
+
+IBM / Coursera
+
+Completed
+
+Additional AI, cloud, and software certifications
+
+Ongoing learning path
+
+In Progress
+
 LEARNING_MODE = CONTINUOUS
 FOCUS_AREAS  = AI + SOFTWARE + CLOUD + ENTERPRISE_SYSTEMS
-```
 
----
-
-## `12 // SYSTEM_ANALYTICS`
+12 // SYSTEM_ANALYTICS
 
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=AnmarRahman&theme=transparent&hide_border=true&ring=38BDF8&fire=A855F7&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0"
-  alt="GitHub contribution streak"
+src="https://streak-stats.demolab.com?user=AnmarRahman&theme=transparent&hide_border=true&ring=38BDF8&fire=A855F7&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&currStreakNum=E2E8F0&sideNums=E2E8F0"
+alt="GitHub contribution streak"
 />
 
 <br/><br/>
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=AnmarRahman&bg_color=00000000&color=94A3B8&line=38BDF8&point=A855F7&area=true&hide_border=true"
-  alt="GitHub activity graph"
+src="https://github-readme-activity-graph.vercel.app/graph?username=AnmarRahman&bg_color=00000000&color=94A3B8&line=38BDF8&point=A855F7&area=true&hide_border=true"
+alt="GitHub activity graph"
 />
 
 </div>
 
----
+13 // SYSTEM_LOG
 
-## `13 // SYSTEM_LOG`
-
-```log
 [BOOT] Initializing AnmarOS...
 [ OK ] AI core loaded
 [ OK ] Enterprise automation modules loaded
@@ -439,23 +484,20 @@ FOCUS_AREAS  = AI + SOFTWARE + CLOUD + ENTERPRISE_SYSTEMS
 [ OK ] Web development runtime active
 [ OK ] Business systems online
 [INFO] Waiting for the next challenge...
-```
 
----
-
-## `14 // OPEN_CONNECTION`
+14 // OPEN_CONNECTION
 
 <div align="center">
 
-### `LET'S BUILD SOMETHING USEFUL`
+LET'S BUILD SOMETHING USEFUL
 
 I am interested in projects involving AI systems, enterprise automation, ERP solutions, internal business tools, and modern web platforms.
 
 <br/>
 
-<a href="https://anmarrahman.vercel.app/" target="_blank" rel="noopener noreferrer">![Portfolio](https://img.shields.io/badge/PORTFOLIO-anmarrahman.vercel.app-020617?style=for-the-badge&logo=vercel&logoColor=white)</a>
+<a href="https://anmarrahman.vercel.app/" target="_blank" rel="noopener noreferrer"></a>
 
-<a href="https://www.linkedin.com/in/anmarrahman/" target="_blank" rel="noopener noreferrer">![LinkedIn](https://img.shields.io/badge/LINKEDIN-Anmar_Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/anmarrahman/" target="_blank" rel="noopener noreferrer"></a>
 
 <a href="mailto:anmar.rahman.dev@gmail.com"><img src="https://img.shields.io/badge/EMAIL-anmar.rahman.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Anmar Rahman" /></a>
 
