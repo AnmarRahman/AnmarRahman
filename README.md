@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=900&lines=AI+Systems+Developer;Techno-Functional+Consultant;Co-Founder+%40+Symantriq;Building+Enterprise+AI+Solutions" />
-</p>
+
 
 <h1 align="center">Anmar Rahman</h1>
 
