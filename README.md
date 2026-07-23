@@ -230,43 +230,22 @@ OUTPUT      AI platforms, dashboards, business websites, web applications
 ## `06 // CAPABILITY_MATRIX`
 
 ### `AI_AND_AUTOMATION`
-
-- AI workflow design
-- Business process automation
-- LLM-powered applications
-- Chatbot systems
-- Intelligent document processing
-- OCR pipelines
-- Data extraction and transformation
-- Internal AI tools
-- Prompt engineering
-- API-based AI integrations
+- AI Workflows
+- Business Automation
+- OCR Pipelines
+- LLM Integrations
 
 ### `ENTERPRISE_SYSTEMS`
-
-- Odoo ERP customization
-- Sales workflows
-- Purchasing workflows
-- Inventory and supply chain processes
-- Helpdesk and field service workflows
-- CRM configuration
-- Business process mapping
-- Techno-functional analysis
-- Internal dashboards
-- Cross-system integration
+- Odoo ERP
+- CRM & Helpdesk
+- Supply Chain
+- Business Analysis
 
 ### `SOFTWARE_ENGINEERING`
-
-- Full-stack web development
-- Frontend architecture
-- Backend APIs
-- Authentication and authorization
-- Admin dashboards
-- Database design
-- Cloud deployment
-- Testing and debugging
-- Git-based collaboration
-- Responsive interface development
+- Full-Stack Development
+- REST APIs
+- Cloud Deployment
+- Authentication
 
 ---
 
@@ -335,64 +314,6 @@ flowchart TD
 
 ---
 
-## `09 // DEVELOPMENT_PROTOCOL`
-
-```text
-01. Understand the real business problem
-02. Map the existing workflow
-03. Identify unnecessary manual steps
-04. Design the simplest useful system
-05. Build modular and maintainable components
-06. Integrate with existing tools
-07. Test against real operational scenarios
-08. Deploy, monitor, and improve
-```
-
-My approach is based on practical outcomes rather than adding technology for its own sake. A useful system should reduce friction, improve visibility, and make everyday work easier.
-
----
-
-## `10 // PROJECT_RUNTIME`
-
-### `WEB_PLATFORMS`
-
-```text
-30+ web applications developed
-AI-powered dashboards
-Customer portals
-Admin panels
-Business websites
-Authentication systems
-Analytics interfaces
-Payment integrations
-Responsive production applications
-```
-
-### `BUSINESS_SYSTEMS`
-
-```text
-ERP workflow improvements
-Internal operations tools
-OCR and document pipelines
-Sales and purchasing automation
-Project and knowledge centralization
-Integration services
-Business process dashboards
-```
-
-### `AI_SYSTEMS`
-
-```text
-Chatbot platforms
-AI-assisted workflows
-Document intelligence
-Structured data extraction
-Business knowledge access
-Automated processing pipelines
-```
-
----
-
 ## `11 // CERTIFICATION_REGISTRY`
 
 | Certification | Provider | Status |
@@ -431,14 +352,11 @@ FOCUS_AREAS  = AI + SOFTWARE + CLOUD + ENTERPRISE_SYSTEMS
 ## `13 // SYSTEM_LOG`
 
 ```log
-[BOOT] Initializing AnmarOS...
-[ OK ] AI core loaded
-[ OK ] Enterprise automation modules loaded
-[ OK ] Odoo integration layer connected
-[ OK ] OCR processor ready
-[ OK ] Web development runtime active
-[ OK ] Business systems online
-[INFO] Waiting for the next challenge...
+[ OK ] AI Core Loaded
+[ OK ] Automation Engine Ready
+[ OK ] ERP Modules Connected
+[ OK ] Web Runtime Active
+SYSTEM READY
 ```
 
 ---
