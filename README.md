@@ -2,30 +2,20 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0f172a,100:0369a1&text=ANMAR%20OS&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=AI-Powered%20Enterprise%20Systems&descAlignY=59&descSize=18&animation=fadeIn" width="100%" alt="AnmarOS banner"/>
 
-```text
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║                         ANMAR OS                                  ║
-║                                                                  ║
-║              AI Systems Development Environment                  ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=70&lines=Initializing+AI+Core...;Loading+Enterprise+Automation+Modules...;System+online.+Welcome+to+AnmarOS." alt="AnmarOS boot sequence"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=Initializing+AI+Core...;Loading+Enterprise+Automation+Modules...;Connecting+Business+Systems...;System+online.+Welcome+to+AnmarOS." alt="AnmarOS boot sequence"/>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-LAUNCH_SYSTEM-020617?style=for-the-badge\&logo=vercel\&logoColor=white)](https://anmarrahman.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/anmarrahman/)
-[![Email](https://img.shields.io/badge/EMAIL-OPEN_CHANNEL-0369A1?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:anmar.rahman.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-LAUNCH_SYSTEM-020617?style=for-the-badge&logo=vercel&logoColor=white)](https://anmarrahman.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmarrahman/)
+[![Email](https://img.shields.io/badge/EMAIL-OPEN_CHANNEL-0369A1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmar.rahman.dev@gmail.com)
 
 <br/>
 
 ![System](https://img.shields.io/badge/SYSTEM-ONLINE-22C55E?style=flat-square)
 ![Location](https://img.shields.io/badge/NODE-MONTREAL-38BDF8?style=flat-square)
 ![Focus](https://img.shields.io/badge/FOCUS-ENTERPRISE_AI-A855F7?style=flat-square)
-![Profile Views](https://komarev.com/ghpvc/?username=AnmarRahman\&style=flat-square\&label=CONNECTIONS\&color=0369a1)
+![Profile Views](https://komarev.com/ghpvc/?username=AnmarRahman&style=flat-square&label=CONNECTIONS&color=0369a1)
 
 </div>
 
@@ -64,8 +54,6 @@ I design and build intelligent software that solves real business problems.
 At **Canada Europe Ltée**, I work on AI and digital transformation initiatives, including enterprise automation, Odoo ERP customization, OCR pipelines, system integrations and internal business tools.
 
 At **Symantriq**, I lead the development of AI-powered web applications, dashboards, automation platforms and scalable software solutions for clients.
-
-My work connects three core systems:
 
 ```text
 BUSINESS OPERATIONS  <────>  SOFTWARE ENGINEERING  <────>  ARTIFICIAL INTELLIGENCE
@@ -119,15 +107,15 @@ COFFEE MODULE          [ REQUIRED ]
 anmar@anmar-os:~$ ps --active
 ```
 
-|   PID  | Process                      | Organization       |   State   |
-| :----: | ---------------------------- | ------------------ | :-------: |
-| `1001` | Enterprise AI Systems        | Canada Europe Ltée | `RUNNING` |
+| PID | Process | Organization | State |
+|:---:|---|---|:---:|
+| `1001` | Enterprise AI Systems | Canada Europe Ltée | `RUNNING` |
 | `1002` | Business Workflow Automation | Canada Europe Ltée | `RUNNING` |
-| `1003` | Odoo ERP Extensions          | Canada Europe Ltée | `RUNNING` |
-| `1004` | OCR & Document Processing    | Canada Europe Ltée | `RUNNING` |
-| `1005` | AI-Powered Client Platforms  | Symantriq          | `RUNNING` |
-| `1006` | Full-Stack Web Applications  | Symantriq          | `RUNNING` |
-| `1007` | Applied AI Research          | Personal Lab       | `RUNNING` |
+| `1003` | Odoo ERP Extensions | Canada Europe Ltée | `RUNNING` |
+| `1004` | OCR & Document Processing | Canada Europe Ltée | `RUNNING` |
+| `1005` | AI-Powered Client Platforms | Symantriq | `RUNNING` |
+| `1006` | Full-Stack Web Applications | Symantriq | `RUNNING` |
+| `1007` | Applied AI Research | Personal Lab | `RUNNING` |
 
 ---
 
@@ -147,13 +135,13 @@ MISSION:
 Transform business operations through AI, automation and connected systems.
 ```
 
-* Working directly with leadership on AI and digital transformation initiatives
-* Designing and implementing AI-powered business workflows
-* Customizing and extending Odoo ERP
-* Building OCR and intelligent document-processing pipelines
-* Developing internal tools for data processing and system integrations
-* Creating centralized systems for projects, workflows, meetings and documentation
-* Optimizing processes across sales, purchasing, operations and supply chain
+- Working directly with leadership on AI and digital transformation initiatives
+- Designing and implementing AI-powered business workflows
+- Customizing and extending Odoo ERP
+- Building OCR and intelligent document-processing pipelines
+- Developing internal tools for data processing and system integrations
+- Creating centralized systems for projects, workflows, meetings and documentation
+- Optimizing processes across sales, purchasing, operations and supply chain
 
 </details>
 
@@ -171,12 +159,12 @@ MISSION:
 Build digital products that combine software, automation and AI.
 ```
 
-* Built and deployed AI-powered platforms used by real clients
-* Developed more than 20 scalable web applications
-* Created AI chatbots, dashboards and automation platforms
-* Led projects from initial requirements through production deployment
-* Designed responsive interfaces and scalable backend systems
-* Collaborated remotely on international client projects
+- Built and deployed AI-powered platforms used by real clients
+- Developed more than 20 scalable web applications
+- Created AI chatbots, dashboards and automation platforms
+- Led projects from initial requirements through production deployment
+- Designed responsive interfaces and scalable backend systems
+- Collaborated remotely on international client projects
 
 [Visit Symantriq](https://www.symantriq.com/)
 
@@ -191,11 +179,11 @@ Build digital products that combine software, automation and AI.
 
 `May 2022 – Present`
 
-* Developing modern React and Next.js applications
-* Building responsive and SEO-optimized websites
-* Integrating APIs, databases and cloud services
-* Improving application speed, accessibility and user experience
-* Working with Firebase, Python and modern deployment platforms
+- Developing modern React and Next.js applications
+- Building responsive and SEO-optimized websites
+- Integrating APIs, databases and cloud services
+- Improving application speed, accessibility and user experience
+- Working with Firebase, Python and modern deployment platforms
 
 </details>
 
@@ -208,11 +196,11 @@ Build digital products that combine software, automation and AI.
 
 `January 2026 – March 2026`
 
-* Developed performant React and Next.js interfaces
-* Built responsive and pixel-accurate pages
-* Integrated frontend applications with backend APIs
-* Improved website performance and usability
-* Collaborated within a professional software development workflow
+- Developed performant React and Next.js interfaces
+- Built responsive and pixel-accurate pages
+- Integrated frontend applications with backend APIs
+- Improved website performance and usability
+- Collaborated within a professional software development workflow
 
 </details>
 
@@ -221,51 +209,58 @@ Build digital products that combine software, automation and AI.
 ## `05 // FEATURED_MODULES`
 
 ```bash
-anmar@anmar-os:~$ ls ./featured-projects
+anmar@anmar-os:~$ ls ./featured-modules
 ```
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### `parsley/`
+### `MODULE_01 // PARSLEY`
 
 **Restaurant Ordering Platform**
 
-A responsive restaurant platform built to provide customers with a modern digital experience and streamlined access to menu and ordering information.
+A responsive restaurant platform providing customers with a modern digital experience and streamlined access to menu and ordering information.
 
 ```yaml
-type: Restaurant Platform
-stack:
-  - React
-  - Node.js
-  - Square
-  - REST APIs
-status: Deployed
+module:
+  name: "Parsley"
+  type: "Restaurant Platform"
+  status: "DEPLOYED"
+
+runtime:
+  - "React"
+  - "Node.js"
+  - "Square"
+  - "REST APIs"
 ```
 
-[Launch Parsley](https://parsleyct.com/)
+[Launch Module](https://parsleyct.com/)
 
 </td>
+
 <td width="50%" valign="top">
 
-### `condor-website/`
+### `MODULE_02 // CONDOR`
 
 **Industrial E-Commerce Platform**
 
 A modern product and e-commerce experience designed for an industrial hardware and supplies business.
 
 ```yaml
-type: E-Commerce Platform
-stack:
-  - Next.js
-  - TypeScript
-  - Responsive Design
-  - Product Catalog
-status: Deployed
+module:
+  name: "Condor Website"
+  type: "E-Commerce Platform"
+  status: "DEPLOYED"
+
+runtime:
+  - "Next.js"
+  - "TypeScript"
+  - "Responsive Design"
+  - "Product Catalog"
 ```
 
-[Launch Condor Website](https://condorwebsite.vercel.app/)
+[Launch Module](https://condorwebsite.vercel.app/)
 
 </td>
 </tr>
@@ -273,21 +268,24 @@ status: Deployed
 <tr>
 <td colspan="2" valign="top">
 
-### `symantriq/`
+### `MODULE_03 // SYMANTRIQ`
 
 **AI-Powered Software Studio**
 
 A software development company focused on AI-powered web applications, business platforms, automation systems and scalable digital products.
 
 ```yaml
-type: Software Agency
+module:
+  name: "Symantriq"
+  type: "Software Agency"
+  status: "OPERATING"
+
 services:
-  - AI-Powered Applications
-  - Full-Stack Development
-  - Business Automation
-  - Custom Web Platforms
-  - Dashboards and Internal Tools
-status: Operating
+  - "AI-Powered Applications"
+  - "Full-Stack Development"
+  - "Business Automation"
+  - "Custom Web Platforms"
+  - "Dashboards and Internal Tools"
 ```
 
 [Visit Symantriq](https://www.symantriq.com/)
@@ -403,72 +401,28 @@ flowchart TD
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnmarRahman&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&bg_color=00000000&rank_icon=github" alt="Anmar's GitHub statistics"/>
+<img width="65%" src="https://streak-stats.demolab.com?user=AnmarRahman&theme=transparent&hide_border=true&stroke=334155&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Anmar's GitHub contribution streak"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmarRahman&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=CBD5E1&bg_color=00000000&langs_count=8" alt="Anmar's most used languages"/>
+<br/><br/>
 
-<br/>
-
-<img width="65%" src="https://streak-stats.demolab.com?user=AnmarRahman&theme=transparent&hide_border=true&stroke=334155&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Anmar's GitHub streak"/>
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnmarRahman&bg_color=00000000&color=CBD5E1&line=38BDF8&point=F8FAFC&area=true&area_color=0369A1&hide_border=true" alt="Anmar's contribution activity graph"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnmarRahman&bg_color=00000000&color=CBD5E1&line=38BDF8&point=F8FAFC&area=true&area_color=0369A1&hide_border=true" alt="Anmar's GitHub contribution activity"/>
 
 </div>
 
 ---
 
-## `10 // COMMAND_TERMINAL`
+## `10 // SYSTEM_LOG`
 
-```bash
-visitor@anmar-os:~$ help
+```text
+[BOOT] AI core initialized
+[BOOT] Enterprise automation modules loaded
+[BOOT] Odoo connector available
+[BOOT] OCR pipeline available
+[BOOT] Full-stack runtime available
+[BOOT] Project modules connected
 
-Available commands:
-
-  whoami       Display operator identity
-  mission      Display current objective
-  projects     List active project modules
-  skills       Scan installed technologies
-  experience   Display professional runtime
-  contact      Open communication channels
-  status       Run system diagnostics
-```
-
-```bash
-visitor@anmar-os:~$ whoami
-
-Anmar Rahman
-AI Systems Developer
-Techno-Functional Consultant
-Software Engineer
-Co-Founder
-```
-
-```bash
-visitor@anmar-os:~$ mission
-
-Build intelligent systems that connect artificial intelligence,
-software engineering and real business operations.
-```
-
-```bash
-visitor@anmar-os:~$ projects
-
-01  Parsley
-02  Condor Website
-03  Symantriq
-```
-
-```bash
-visitor@anmar-os:~$ status
-
-AI Core ...................... ONLINE
-Automation Engine ............ ONLINE
-Enterprise Integrations ...... ONLINE
-Full-Stack Runtime ........... ONLINE
-Problem-Solving Module ....... ONLINE
-New Opportunities ............ ACCEPTING CONNECTIONS
+[STATUS] All primary systems operational
+[STATUS] New opportunities accepted
 ```
 
 ---
@@ -483,19 +437,16 @@ I am interested in projects involving **enterprise AI**, **business automation**
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/EXPLORE_MY_WORK-020617?style=for-the-badge\&logo=vercel\&logoColor=white)](https://anmarrahman.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/anmarrahman/)
-[![Email](https://img.shields.io/badge/INITIALIZE_CONTACT-0369A1?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:anmar.rahman.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/EXPLORE_MY_WORK-020617?style=for-the-badge&logo=vercel&logoColor=white)](https://anmarrahman.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmarrahman/)
+[![Email](https://img.shields.io/badge/INITIALIZE_CONTACT-0369A1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmar.rahman.dev@gmail.com)
 
 <br/><br/>
 
 ```text
-visitor@anmar-os:~$ connect --operator anmar
-
-Establishing secure connection...
-Connection channel ready.
-
-visitor@anmar-os:~$ _
+Connection channel: READY
+Operator: Anmar Rahman
+Status: AVAILABLE
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,45:0f172a,100:0369a1" width="100%" alt="AnmarOS footer"/>
